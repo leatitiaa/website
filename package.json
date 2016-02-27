@@ -1,0 +1,25 @@
+{
+  "name": "leeroya.com",
+  "version": "1.0.0",
+  "description": "compnay website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashworx-South-Africa/website.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0"
+  },
+  "author": "Lee-Roy Ashworth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ashworx-South-Africa/website/issues"
+  },
+  "homepage": "https://github.com/Ashworx-South-Africa/website#readme"
+}
